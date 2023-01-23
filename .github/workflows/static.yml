@@ -1,0 +1,68 @@
+<html>
+<head>
+<title>Hobbies</title>
+<body style="background:url(tech2.jpg);background-repeat:no-repeat;background-size:100% 100%;
+height:900px; background-attachment:fixed">
+</head>
+
+<body background="tech.jpg">
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #0000FF;
+}
+
+.active {
+    background-color: #34282C;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a href="Home.html">Home</a></li>
+  <li><a href="personal information.html">Personal Info</a></li>
+  <li><a class="active" href="Hobby.html">Hobbies</a></li>
+  <li><a href="gallery.html">Gallery</a></li>
+  <li><a href="About.html">About</a></li>
+</ul>
+<font face="Comic Sans MS" size="50"color="Red">
+<center><b>My Hobbies</b></center>
+</font>
+<br>
+<br>
+<br>
+
+<center><font face="Comic Sans Ms" size="10" color="Black">Playing and Streaming in Computer/Internet<br>
+<img src="Play.gif" height=300 width=300></center><br>
+<center><font face="Comic Sans Ms" size="10" color="Black">Venturing and seeking more Adventures in New Places<br>
+<img src="adventure.jpg" height=300 width=300></center><br>
+<center><font face="Comic Sans Ms" size="10" color="Black">Reading Manga and Fiction Books<br>
+<img src="read.gif" height=300 width=300></center><br>
+<center><font face="Comic Sans Ms" size="10" color="Black">Playing Soccer<br>
+<img src="soccer.gif" height=300 width=300></center><br>
+<center><font face="Comic Sans Ms" size="10" color="Black">Watching Movies<br>
+<img src="watchin.gif" height=300 width=300></center><br>
+
+
+</body>
+</html>
