@@ -1,0 +1,81 @@
+<html>
+<title>About</title>
+<body style="background:url(tech6.jpg);background-repeat:no-repeat;background-size:100% 100%;
+height:900px; background-attachment:fixed">
+
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #0000FF;
+}
+
+.active {
+    background-color: #34282C;
+}
+</style>
+<body>
+
+<ul>
+  <li><a href="Home.html">Home</a></li>
+  <li><a href="personal info.html">Personal Info</a></li>
+  <li><a href="Hobby.html">Hobbies</a></li>
+  <li><a href="gallery.html">Gallery</a></li>
+  <li><a class="active" href="About.html">About</a></li>
+</ul>
+<font face="Comic Sans MS" size="50"color="Red">
+<center><b>ABOUT</b></center>
+</font><br>
+<center><i><font face="Comic Scans MS" size="4" color="Red">I created this website for personal use only. <br>
+I am Alexis John Blake Catalan. 19 years of age.<br>
+Currently Studying in Kolehiyo ng Lungsod ng Lipa. <br>
+As you can see my course is Bachelor in Science and Computer Science.<br>
+Im a future programmer so I say, <br>
+that's why I must pursue this dream even though there's struggle<br>
+I will definitely do it because<br>
+I want to prove to myself and family that I have what it takes to be a better man.<br>
+Im currently designing this website for my final exam even <br>
+though I don't have much knowledge about it im trying to do my best.<br>
+I would take this chance to introduce myself a little.<br>
+I am not rich nor poor,<br>
+My family is one of the type of families that can provide food 3 times a day.<br>  	
+Sometimes I also experience the struggle of thinking of quiting school <br>
+because of finacial problems but<br>
+I made it here because of the people who was helping me.<br>
+Thank's to those people I made through in those problems.<br>
+That's why I must work hard to make them proud,<br>
+To make them happy,<br>
+To make them not regret the things that they have given to me. <br>
+I have a long way to go but I will not promise it,<br>
+I will do it.<br>
+So I excuse myself for a while,I wish to see you again someday.<br>
+Thank you for Reading!! I Hope you Like it!! :)<br>
+</i></center>
+<center>
+<embed name="Too Good" src="Too.mp4" loop="false" hidden="true" autostart="true">
+<br><br><br><br><br><br><br><br><br>
+<hr color="green"><marquee><font face="curlz mt" size="5" color="Red">
+<b>Thanks for Visiting!</b></marquee><hr color="green">
+</body>
+</html>
+
+
+

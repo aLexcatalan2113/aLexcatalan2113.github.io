@@ -1,0 +1,93 @@
+<html>
+<title>Personal Information</title>
+<body style="background:url(tech1.jpg);background-repeat:no-repeat;background-size:100% 100%;
+height:900px; background-attachment:fixed">
+
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #0000FF;
+}
+
+.active {
+    background-color: #34282C;
+}
+</style>
+<body>
+
+<ul>
+  <li><a href="Home.html">Home</a></li>
+  <li><a class="active" href="personal info.html">Personal Info</a></li>
+  <li><a href="Hobby.html">Hobbies</a></li>
+  <li><a href="gallery.html">Gallery</a></li>
+  <li><a href="About.html">About</a></li>
+</ul>
+<font face="Comic Sans MS" size="50"color="Red">
+<center><b>My Personal Information</b></center>
+</font>
+<table border=1 cellpadding=1 cellspacing=0 align=center>
+<tr>
+<td width=100><img src="Alex.jpg" height=238 width=205></td>
+<td width=600><center>
+<ul><pre><b><font face="Arial" size="5" color="Red">Alexis John Blake Catalan<br>
+<pre><font face="Arial" size="3" color="Red">Maraouy,Lipa City,Batangas,Philippines 4217<br>
+<pre>0955 145 8619<br>
+<pre><a href="https://mail.google.com/mail/?tab=mm#inbox">catalanalex08@gmail.com</a>/<a href="https://mail.yahoo.com/?.intl=en&.lang=en-PH&.partner=none&.src=fp">catalan_alex@yahoo.com</a></b></font></center>
+</ul></td></tr>
+
+<table border=1 cellpadding=1 cellspacing=0 align=center>
+<tr>
+<td width=806><center>
+<ul><font face="Arial" size="6" color="Red"> Personal Details</font><br>
+<font face="Arial" size="5" color="Red">
+<pre>Age: 19<br>
+<pre>Gender: Male<br>
+<pre>Date of Birth: November 8,1998<br>
+<pre>Place of Birth: Sta.Ana,Manila,Philippines<br>
+<pre>Civil Status: Single<br>
+<pre>Religion: Catholic<br>
+<pre>Nationality: Filipino<br>
+<pre>Language: Tagalog and English<br>
+<pre>Father: Raynand S. Catalan<br>
+<pre>Occupation: Photographer<br>
+<pre>Mother: Rea M. Catalan<br>
+<pre>Occupation: Housewife<br>
+</ul></td>
+</tr>
+<tr>
+<td width=751>
+<ul><center><font face="Arial" size="6" color="Red"> Educational Attainment</font><br>
+<pre><font face="Arial" size="4" color="Red">TERTIARY:    Kolehiyo ng Lungsod ng Lipa
+           BS Computer Science
+      Marawoy, Lipa City
+     2016 up to present<br>
+<pre><font face="Arial" size="4" color="Red">    SECONDARY:   Alternative Learning Center (ALS)
+        Lipa City, Batangas
+2014-2015      <br>
+<pre><font face="Arial" size="4" color="Red">PRIMARY:  Wakas Elementary School
+		                   Barangay Wakas, Tayabas, Quezon
+2005-2011      <br>
+
+</table>
+
+</body>
+</html>
